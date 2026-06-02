@@ -1119,6 +1119,7 @@ export default function App() {
         </div>
       </div>
 
+      
       {/* Footer */}
       <div style={{ borderTop: `2px solid ${C.border}`, background: C.white, padding: "14px 24px",
         textAlign: "center", fontFamily: sans, fontSize: 12, color: C.muted }}>
